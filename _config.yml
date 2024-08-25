@@ -4,5 +4,8 @@ theme: just-the-docs
 
 url: https://mlsamurai.github.io/deep_learning_course
 
+plugins:
+  - jekyll-default-layout
+
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/mlsamurai/deep_learning_course
